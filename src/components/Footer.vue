@@ -19,7 +19,7 @@
                         </a>
                     </li>
                     <li class="nav-item mr-5">
-                        <a class="nav-link" href="https://www.linkedin.com/in/renan-jansen-760808191" target="_blank">
+                        <a class="nav-link" href="https://github.com/renanjansen" target="_blank">
                             <i class="bi-github" style="font-size: 2rem; color: blueviolet;"></i>
                         </a>
                     </li>
