@@ -42,7 +42,7 @@ export default {
     },
     data() {
         return {
-            caminhoDaImagem: '/public/imagens/P_20191231_180445~2.jpg', // Defina o caminho da imagem
+            caminhoDaImagem: '/imagens/P_20191231_180445~2.jpg', // Defina o caminho da imagem
         };
     },
 }
