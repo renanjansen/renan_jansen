@@ -6,10 +6,10 @@
                     <div id="carouselExampleControls" class="carousel slide rounded" data-bs-ride="carousel">
                         <div class="carousel-inner">
                           <div class="carousel-item active">
-                            <iframe src="/src/Certificados/1.pdf" class="d-block w-100" style="height: 600px;" frameborder="0"></iframe>
+                            <iframe src="./src/Certificados/1.pdf" class="d-block w-100" style="height: 600px;" frameborder="0"></iframe>
                           </div>
                           <div class="carousel-item" v-for="index in 33" :key="index">
-                            <iframe :src="`/src/Certificados/${index}.pdf`" class="d-block w-100" style="height: 600px;" frameborder="0"></iframe>
+                            <iframe :src="`./src/Certificados/${index}.pdf`" class="d-block w-100" style="height: 600px;" frameborder="0"></iframe>
                           </div>
 
                           <!-- Outros itens do carrossel -->
