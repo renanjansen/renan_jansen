@@ -3,8 +3,8 @@
         <div class="container p-2 mb-5 shadow-lg">
             <div class="row pb-5" id="grad_cert">
                 <div class="col text-white">
-                    <div id="carouselExampleControls" class="carousel slide rounded" data-bs-ride="carousel">
-                        <div class="carousel-inner">
+                    <div id="carouselExampleControls" class="carousel slide rounded p-5" data-bs-ride="carousel">
+                        <div class="carousel-inner p-5">
                           <div class="carousel-item active">
                             <iframe src="/Certificados/1.pdf" class="d-block w-100" style="height: 600px;" frameborder="0"></iframe>
                           </div>
