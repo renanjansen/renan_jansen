@@ -8,7 +8,7 @@
                           <div class="carousel-item active">
                             <iframe src="/Certificados/1.pdf" class="d-block w-100" style="height: 600px;" frameborder="0"></iframe>
                           </div>
-                          <div class="carousel-item" v-for="index in 33" :key="index">
+                          <div class="carousel-item" v-for="index in 35" :key="index">
                             <iframe :src="`/Certificados/${index}.pdf`" class="d-block w-100" style="height: 600px;" frameborder="0"></iframe>
                           </div>
 

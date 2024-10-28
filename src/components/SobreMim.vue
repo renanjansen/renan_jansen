@@ -19,7 +19,7 @@
         <div class="row  p-5 ml-5">
             <div class="col text-white">
                 <h4 id="sobre-mim" class="pb-3 fs-1">Olá, eu sou Renan Jansen!</h4>
-                <p class="fs-1">Analista de Sistemas, pós-graduando em Engenharia de Software, técnico em mecatrônica, e
+                <p class="fs-1">Engenheiro de Software, Desenvolvedor fullstack, e
                     apaixonado por tecnologia.</p>
                 <p class="fs-1">Descobri na pandemia de 2019/2021 um mundo totalmente novo, repleto de
                     oportunidades e desafios, <i>"tô codando"</i> desde então.</p>

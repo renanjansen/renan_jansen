@@ -5,6 +5,8 @@ import Footer from './components/Footer.vue'
 import SobreMim from './components/SobreMim.vue';
 import Carrossel from './components/Carrossel.vue'
 
+
+
 </script>
 
 <template>
